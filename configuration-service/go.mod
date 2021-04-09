@@ -27,11 +27,11 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/xlab/handysort v0.0.0-20150421192137-fb3537ed64a1 // indirect
-	golang.org/x/net v0.0.0-20210119194325-5f4716e94777
+	golang.org/x/net v0.0.0-20210224082022-3d97a244fca7
 	gonum.org/v1/netlib v0.0.0-20190331212654-76723241ea4e // indirect
 	gopkg.in/yaml.v2 v2.4.0
-	k8s.io/apimachinery v0.20.4
-	k8s.io/client-go v0.20.4
+	k8s.io/apimachinery v0.21.0
+	k8s.io/client-go v0.21.0
 	sigs.k8s.io/structured-merge-diff v1.0.1-0.20191108220359-b1b620dd3f06 // indirect
 	vbom.ml/util v0.0.0-20160121211510-db5cfe13f5cc // indirect
 )
